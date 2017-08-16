@@ -48,6 +48,12 @@
         <script src="<?php print base_url(); ?>js/HoldOn.min.js"></script>
         
         <script src="<?php print base_url(); ?>js/jquery.maskedinput.min.js"></script>
+        
+        
+        <!-- PivotTable.js libs from ../dist -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="<?php print base_url(); ?>js/pivot/dist/pivot.css">
+        <script  src="<?php print base_url(); ?>js/pivot/dist/pivot.js"></script>
          
         <!--Notifiers-->
         <script src="<?php echo base_url(); ?>js/notify/bootstrap-notify-3.1.3/bootstrap-notify.min.js"></script>

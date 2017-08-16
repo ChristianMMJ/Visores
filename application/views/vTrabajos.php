@@ -59,7 +59,7 @@
     var menuTablero = $('#MenuTablero');
  
     $(document).ready(function () {
-        getRecords();
+//        getRecords();
   
     });
   

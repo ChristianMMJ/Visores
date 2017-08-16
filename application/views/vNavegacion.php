@@ -66,7 +66,7 @@
                 <li class="dropdown" >
                     <a href="#" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false" data-toggle="dropdown">Visor Gastos<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a tabindex="-1" href="<?php print base_url('CtrlCajerosBBVA') ?>">General</a></li>
+                        <li><a tabindex="-1" href="<?php print base_url('CtrlGeneral') ?>">General</a></li>
                         <li><a tabindex="-1" href="<?php print base_url('CtrlCajerosBBVA') ?>">Por Proyecto</a></li>
                     </ul>
                 </li>
